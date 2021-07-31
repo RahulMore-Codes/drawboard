@@ -1,2 +1,2 @@
 # drawboard
-A Flutter app for kids to write alphabates, numbers to practice and learn.
+A Flutter app for kids to practice and learn alphabates and numbers.
