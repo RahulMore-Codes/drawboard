@@ -4,4 +4,4 @@ Unfortunately, I lost the source code of this app from my computer and now only 
 
 
 # Drawboard Preview 
-[Video preview](https://github.com/RahulMore-Codes/drawboard/blob/main/Record_2021-07-31-08-16-44_f26cc2bf091616e9e921dc936c6900d2.mp4)
+![Drawboard](https://user-images.githubusercontent.com/61267143/127727175-03d1ac58-b9b9-4457-8769-2dcbb82adc13.gif)
